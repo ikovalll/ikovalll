@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Привет 👋, я Илья</h1>
+<h3 align="center">Python-разработчик | студент Яндекс.Практикума</h3>
 
-<!--
-**ikovalll/ikovalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Обо мне  
+- 🎓 Изучаю **Python**, **ООП**, **Git**, **Django** и основы backend-разработки  
+- 🛠 Создаю учебные и pet-проекты  
+- 📍 Живу в **Турции 🇹🇷**  
+- 💬 Люблю автоматизацию, чистый код и изучение новых технологий  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Технологии и инструменты
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊
