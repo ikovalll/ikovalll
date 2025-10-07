@@ -22,9 +22,9 @@
 ---
 
 ### 📊 GitHub статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kovalkakovalen&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikovalll&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kovalkakovalen&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikovalll&layout=compact&theme=tokyonight)
 
 ---
 
