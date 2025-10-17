@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/ikovalll/ikovalll/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ikovalll/ikovalll/blob/output/github-snake-dark.svg)
 
 <h1 align="center">Hi there 👋, I'm Ilya</h1>
 <h3 align="center">Python Developer | Yandex.Practicum Student</h3>
