@@ -3,16 +3,20 @@ name: Update GitHub Snake on Commit
 on:
   push:
     branches:
-      - main  # или твоя основная ветка
-  workflow_dispatch:  # можно запускать вручную
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write  # важно для пуша
 
 jobs:
   update-snake:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # использовать токен GitHub для push
 
       - name: Set up Python
         uses: actions/setup-python@v4
