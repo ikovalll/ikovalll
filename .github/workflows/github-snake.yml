@@ -1,0 +1,21 @@
+name: GitHub Snake
+
+on:
+  push:
+    branches:
+      - main  # твоя основная ветка
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Генерация SVG змейки
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
