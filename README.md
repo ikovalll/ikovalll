@@ -1,18 +1,18 @@
-<h1 align="center">Привет 👋, я Илья</h1>
-<h3 align="center">Python-разработчик | студент Яндекс.Практикума</h3>
+<h1 align="center">Hi there 👋, I'm Ilya</h1>
+<h3 align="center">Python Developer | Yandex.Practicum Student</h3>
 
 ---
 
-### 🧠 Обо мне  
-- 🎓 Изучаю **Python**, **ООП**, **Git**, **Django** и основы backend-разработки  
-- 🚀 Только начинаю путь в IT и развиваюсь в направлении **Python Backend**   
-- 📚 Прохожу обучение на курсе **Python-разработчик** в Яндекс.Практикуме  
-- 📍 Живу в **Турции 🇹🇷**  
-- 💬 Люблю автоматизацию, чистый код и логичные решения задач  
+### 🧠 About Me  
+- 🎓 Learning **Python**, **OOP**, **Git**, **Django**, and the basics of backend development  
+- 🚀 Just starting my journey in IT and growing in the **Python Backend** direction  
+- 📚 Currently studying on the **Python Developer** course at Yandex.Practicum  
+- 📍 Based in **Turkey 🇹🇷**  
+- 💬 Passionate about automation, clean code, and logical problem-solving  
 
 ---
 
-### 🧰 Технологии и инструменты
+### 🧰 Technologies & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -22,17 +22,18 @@
 
 ---
 
-### 📊 GitHub статистика
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikovalll&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikovalll&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Как связаться со мной  
+### 📫 How to Reach Me  
 - Telegram: [@ikovalll](https://t.me/ikovalll)  
 - Email: **kovalkakovalen@gmail.com**
 
 ---
 
-⭐️ _Спасибо, что заглянул!_
+⭐️ _Thanks for stopping by!_
+
