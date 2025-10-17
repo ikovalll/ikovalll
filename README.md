@@ -40,6 +40,3 @@
 - Email: **kovalkakovalen@gmail.com**
 
 ---
-
-⭐️ _Thanks for stopping by!_
-
