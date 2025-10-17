@@ -1,6 +1,6 @@
 <div align="center">
 
-![snake gif](https://github.com/ikovalll/ikovalll/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ikovalll/ikovalll/blob/output/dist/github-snake-dark.svg)
 
 </div>
 
