@@ -1,28 +1,29 @@
 name: GitHub Snake
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # каждый день
-  workflow_dispatch:      # ← ВАЖНО: кнопка Run
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ikovalll
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-snake-dark.svg
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
-        e
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
