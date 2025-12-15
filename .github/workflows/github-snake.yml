@@ -1,21 +1,28 @@
 name: GitHub Snake
 
 on:
+  schedule:
+    - cron: "0 0 * * *"   # каждый день
+  workflow_dispatch:      # ← ВАЖНО: кнопка Run
   push:
     branches:
-      - main  # твоя основная ветка
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      # Генерация SVG змейки
-      - name: Generate GitHub Snake SVG
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ikovalll
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        e
