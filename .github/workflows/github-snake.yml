@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # Запуск каждые 12 часов
   schedule:
     - cron: "0 */12 * * *" 
-  
-  # Позволяет запустить вручную
   workflow_dispatch:
-  
-  # Запуск при каждом пуше в main
   push:
     branches:
     - main
@@ -16,13 +11,13 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ikovalll
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
