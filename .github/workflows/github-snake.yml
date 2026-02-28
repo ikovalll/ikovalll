@@ -1,19 +1,14 @@
-name: Deploy VitePress site to Pages
+name: Generate Snake Animation
 
 on:
+  schedule:
+    - cron: "0 */12 * * *" # Запуск каждые 12 часов
+  workflow_dispatch:
   push:
     branches: [main]
 
-  workflow_dispatch:
-
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
+  contents: write
 
 jobs:
   build:
@@ -21,34 +16,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          fetch-depth: 0
+          github_user_name: ikovalll
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
-          
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        
-      - name: Install dependencies
-        run: bun install
-        
-      - name: Build with VitePress
-        run: bun run docs:build
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          path: docs/.vitepress/dist
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
