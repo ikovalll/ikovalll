@@ -2,7 +2,8 @@
 <h3 align="center">Python Backend Developer | Студент Яндекс Практикума</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikovalll&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Contributions-239_в_год-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Status-Active_Learning-blue?style=for-the-badge" alt="Status" />
 </p>
 ---
 
