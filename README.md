@@ -39,15 +39,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![API Gateways](https://img.shields.io/badge/API_Gateways-025E8C?style=for-the-badge)
 
----
-
-### 📊 Моя активность
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ikovalll&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikovalll&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
 
 ### 📫 Как со мной связаться
 - **Telegram:** [@ikovalll](https://t.me/ikovalll)
