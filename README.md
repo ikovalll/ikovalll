@@ -1,14 +1,9 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikovalll/ikovalll/output/github-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikovalll/ikovalll/output/github-snake.svg?v=2">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ikovalll/ikovalll/output/github-snake.svg">
-  </picture>
-</div>
-
 <h1 align="center">Привет! Я Илья 👋</h1>
 <h3 align="center">Python Backend Developer | Студент Яндекс Практикума</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikovalll&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
 ---
 
 ### 🧠 Обо мне
