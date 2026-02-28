@@ -1,10 +1,13 @@
 <h1 align="center">Привет! Я Илья 👋</h1>
 <h3 align="center">Python Backend Developer | Студент Яндекс Практикума</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-239_в_год-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Status-Active_Learning-blue?style=for-the-badge" alt="Status" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikovalll/ikovalll/output/github-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikovalll/ikovalll/output/github-snake.svg?v=3">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ikovalll/ikovalll/output/github-snake.svg?v=3">
+  </picture>
+</div>
 ---
 
 ### 🧠 Обо мне
