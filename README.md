@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Илья 👋</h1>
+<h1 align="center">Привет! Я Илья (ikovalll)</h1>
 <h3 align="center">Python Backend Developer | Студент Яндекс Практикума</h3>
 
 <div align="center">
