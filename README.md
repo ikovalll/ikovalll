@@ -10,15 +10,15 @@
 </div>
 ---
 
-### 🧠 Обо мне
-- 🎓 Активно изучаю **Python**, **Django** и архитектуру бэкенда.
-- 🚀 Специализируюсь на создании масштабируемых API и работе с **Django ORM**.
-- 📍 Базируюсь в *Турции 🇹🇷*
-- 💬 Фокусируюсь на **Clean Coding** и **Research and Development (R&D)** в разработке.
+### 🧠 About Me
+- 🎓 Actively studying Python, Django, and backend architecture.
+- 🚀 Specializing in building scalable APIs and working with Django ORM.
+- 📍 Based in Turkey 🇹🇷
+- 💬 Focused on Clean Coding and Research and Development (R&D) in software development.
 
 ---
 
-### 🛠 Мой стек технологий (на основе LinkedIn)
+### 🛠 My Technology Stack (based on LinkedIn)
 
 **Backend & Databases:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@
 ![API Gateways](https://img.shields.io/badge/API_Gateways-025E8C?style=for-the-badge)
 
 
-### 📫 Как со мной связаться
+### 📫 How to Contact Me
 - **Telegram:** [@ikovalll](https://t.me/ikovalll)
 - **LinkedIn:** [ikovalll](https://www.linkedin.com/in/ikovalll/)
 - **Email:** kovalkakovalen@gmail.com
