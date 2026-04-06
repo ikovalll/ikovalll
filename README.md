@@ -9,13 +9,6 @@
   </picture>
 </div>
 ---
-
-### 🧠 About Me
-- 🎓 Actively studying Python, Django, and backend architecture.
-- 🚀 Specializing in building scalable APIs and working with Django ORM.
-- 📍 Based in Turkey 🇹🇷
-- 💬 Focused on Clean Coding and Research and Development (R&D) in software development.
-
 ---
 
 ### 🛠 My Technology Stack (based on LinkedIn)
