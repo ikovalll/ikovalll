@@ -7,7 +7,6 @@
 
 ---
 
-### 🐍 GitHub Snake (must have!)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikovalll/ikovalll/output/github-snake-dark.svg?v=100">
@@ -58,15 +57,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikovalll&theme=radical&hide_border=true&background=0d1117&stroke=6A9FF5&ring=6A9FF5&fire=6A9FF5&currStreakNum=ffffff" />
 </div>
-
----
-
-### 🚀 My Projects
-
-| Project | Stack | Link |
-|---------|-------|------|
-| 🍽️ **Foodgram** | Django, DRF, Docker, PostgreSQL, Nginx, Gunicorn, React | [GitHub](https://github.com/ikovalll/foodgram) |
-| 🔧 **More projects** | Python, Django, REST APIs | [Repositories](https://github.com/ikovalll?tab=repositories) |
 
 ---
 
