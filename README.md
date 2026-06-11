@@ -19,30 +19,38 @@
 
 ### 🛠️ My Tech Stack
 
-#### 🔹 Backend & Databases
+#### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,postgresql" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <code>Python</code> •
+  <code>Django</code> •
+  <code>DRF</code> •
+  <code>PostgreSQL</code> •
+  <code>SQL</code>
 </p>
 
-#### 🔹 Testing & Quality
+#### Testing & Quality
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pycharm" />
-  <img src="https://img.shields.io/badge/pytest-0E7A0D?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
-  <img src="https://img.shields.io/badge/PyUnit-005571?style=for-the-badge" alt="PyUnit"/>
-  <img src="https://img.shields.io/badge/Clean_Coding-brightgreen?style=for-the-badge" alt="Clean Coding"/>
+  <code>pytest</code> •
+  <code>PyUnit</code> •
+  <code>Clean Coding</code>
 </p>
 
-#### 🔹 DevOps & Tools
+#### DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,postman" />
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+  <code>Docker</code> •
+  <code>Git</code> •
+  <code>GitHub</code> •
+  <code>Nginx</code> •
+  <code>Gunicorn</code> •
+  <code>Postman</code>
 </p>
 
-#### 🔹 Frontend (basics)
+#### Frontend (basics)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,css,html" />
+  <code>React</code> •
+  <code>Bootstrap</code> •
+  <code>CSS</code> •
+  <code>HTML</code>
 </p>
 
 ---
@@ -63,19 +71,13 @@
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="https://t.me/ikovalll" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ikovalll/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kovalkakovalen@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://t.me/ikovalll">Telegram</a> •
+  <a href="https://www.linkedin.com/in/ikovalll/">LinkedIn</a> •
+  <a href="mailto:kovalkakovalen@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikovalll&label=👁️+Profile+Views&color=6A9FF5&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ikovalll&label=Profile+Views&color=6A9FF5&style=flat" />
 </p>
