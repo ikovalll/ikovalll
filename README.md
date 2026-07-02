@@ -23,6 +23,7 @@
 <p align="left">
   <code>Python</code> •
   <code>Django</code> •
+  <code>Flask</code> •
   <code>DRF</code> •
   <code>PostgreSQL</code> •
   <code>SQL</code>
