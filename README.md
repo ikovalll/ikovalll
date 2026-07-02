@@ -2,7 +2,7 @@
 <h3 align="center">🐍 Python Backend Developer | Yandex Practicum Student | Open to Work</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FF5&center=true&vCenter=true&width=500&lines=Writing+clean+Python+code;Building+APIs+with+Django;Containerizing+with+Docker;Deploying+to+servers;Looking+for+a+Junior+role!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FF5&center=true&vCenter=true&width=500&lines=Writing+clean+Python+code;Building+APIs+with+Django;Containerizing+with+Docker;Deploying+to+servers" alt="Typing SVG" />
 </p>
 
 ---
