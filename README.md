@@ -56,19 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikovalll&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6A9FF5&icon_color=6A9FF5" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikovalll&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6A9FF5" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikovalll&theme=radical&hide_border=true&background=0d1117&stroke=6A9FF5&ring=6A9FF5&fire=6A9FF5&currStreakNum=ffffff" />
-</div>
-
----
-
 ### 📫 Contact Me
 
 <p align="left">
