@@ -49,32 +49,6 @@ Python-разработчик бэкенда, специализируюсь н�
 
 ---
 
-## 🚀 Избранные проекты
-
-| Проект | Описание | Стек |
-|---|---|---|
-| [🍲 **Foodgram**](https://github.com/ikovalll/foodgram) | Платформа рецептов с избранным, подписками и выгрузкой списка покупок | Django 5.2 · DRF · PostgreSQL · Docker · React |
-| [🐱 **Kittygram**](https://github.com/ikovalll/kittygram_final) | Соцсеть для фотографий котиков с автоматическим деплоем | Django · DRF · PostgreSQL · Docker · CI/CD |
-| [🚀 **Yatube API**](https://github.com/ikovalll/api-final-yatube) | REST API соцсети с JWT-аутентификацией и подписками | Django · DRF · SimpleJWT · Djoser |
-| [🔗 **YaCut**](https://github.com/ikovalll/async-yacut) | Сервис коротких ссылок с асинхронной загрузкой файлов на Яндекс Диск | Flask · aiohttp · SQLAlchemy |
-| [📝 **Blogicum**](https://github.com/ikovalll/django-sprint4) | Блог-платформа с аутентификацией, комментариями, картинками и профилями | Django · CBV · Pillow |
-| [🤖 **Homework Bot**](https://github.com/ikovalll/homework-bot) | Telegram-бот со статусом проверки домашних работ | Python · Telegram Bot API · requests |
-| [🧪 **Django Testing**](https://github.com/ikovalll/django-testing) | Наборы тестов для двух Django-проектов — pytest и unittest | pytest · unittest · Django |
-| [🐍 **The Snake**](https://github.com/ikovalll/the_snake) | Классическая «Змейка» с чистым ООП-кодом и тестами | Python · Pygame · pytest |
-
-В каждом репозитории документация на **русском** и **английском** языках.
-
----
-
-## 📊 Статистика GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ikovalll&show_icons=true&hide_border=true&title_color=6A9FF5&icon_color=6A9FF5" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikovalll&layout=compact&hide_border=true&title_color=6A9FF5" alt="Top languages" />
-</div>
-
----
-
 ## 📫 Контакты
 
 <p align="center">

@@ -49,32 +49,6 @@ Yandex Practicum and open to backend roles.
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🍲 **Foodgram**](https://github.com/ikovalll/foodgram) | Recipe-sharing platform with favourites, subscriptions and a downloadable shopping list | Django 5.2 · DRF · PostgreSQL · Docker · React |
-| [🐱 **Kittygram**](https://github.com/ikovalll/kittygram_final) | Social network for cat photos with automatic deployment | Django · DRF · PostgreSQL · Docker · CI/CD |
-| [🚀 **Yatube API**](https://github.com/ikovalll/api-final-yatube) | REST API for a social network with JWT auth and subscriptions | Django · DRF · SimpleJWT · Djoser |
-| [🔗 **YaCut**](https://github.com/ikovalll/async-yacut) | URL shortener with asynchronous file uploads to Yandex Disk | Flask · aiohttp · SQLAlchemy |
-| [📝 **Blogicum**](https://github.com/ikovalll/django-sprint4) | Blog platform with authentication, comments, images and profiles | Django · CBV · Pillow |
-| [🤖 **Homework Bot**](https://github.com/ikovalll/homework-bot) | Telegram bot reporting homework review status | Python · Telegram Bot API · requests |
-| [🧪 **Django Testing**](https://github.com/ikovalll/django-testing) | Test suites for two Django projects — pytest and unittest | pytest · unittest · Django |
-| [🐍 **The Snake**](https://github.com/ikovalll/the_snake) | The classic Snake game with clean OOP code and tests | Python · Pygame · pytest |
-
-Every repository has documentation in **English** and **Russian** (`README.ru.md`).
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ikovalll&show_icons=true&hide_border=true&title_color=6A9FF5&icon_color=6A9FF5" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikovalll&layout=compact&hide_border=true&title_color=6A9FF5" alt="Top languages" />
-</div>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
