@@ -25,7 +25,7 @@
 
 Python backend developer focused on Django and Django REST Framework. I build web
 applications and APIs, cover them with tests, package them in Docker and ship them to
-servers through GitHub Actions. Currently finishing the Python Developer programme at
+servers through GitHub Actions. Currently finished the Python Developer programme at
 Yandex Practicum and open to backend roles.
 
 - 🛠 Building REST APIs with Django REST Framework
